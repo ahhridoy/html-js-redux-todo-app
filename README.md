@@ -1,1 +1,1 @@
-# HTML JS Todo App
+# HTML JS Redux Todo App
